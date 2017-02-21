@@ -1,0 +1,26 @@
+
+th {
+border-style:solid;
+border-color:black;
+border-width:1;
+
+}
+th.abc {
+padding-right:1cm;
+text-align:left;
+}
+td{
+padding-right:1cm;
+border-style:solid;
+border-color:black;
+border-width:1;
+}
+
+table{
+
+border-style:solid;
+border-color:black;
+border-width:1;
+margin-left:auto;
+margin-right:auto;
+}
